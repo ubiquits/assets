@@ -1,0 +1,25 @@
+{
+  "name": "@ubiquits/assets",
+  "version": "1.0.0",
+  "description": "Ubiquits assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubiquits/assets.git"
+  },
+  "keywords": [
+    "ubiquits",
+    "assets",
+    "svg",
+    "logo"
+  ],
+  "author": "Zak Henry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubiquits/assets/issues"
+  },
+  "homepage": "https://github.com/ubiquits/assets#readme"
+}

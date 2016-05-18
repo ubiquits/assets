@@ -1,0 +1,1 @@
+require('./ubiquits/style.css');
