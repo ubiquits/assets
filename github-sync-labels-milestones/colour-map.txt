@@ -1,0 +1,58 @@
+action: rebase 2196F3
+action: review 2196F3
+comp: migrations 3F51B5
+comp: database 3F51B5
+comp: deployment 3F51B5
+comp: documentation 3F51B5
+comp: email 3F51B5
+comp: logging 3F51B5
+comp: middleware 3F51B5
+comp: controllers 3F51B5
+comp: models 3F51B5
+comp: queues 3F51B5
+comp: cli 3F51B5
+comp: routing 3F51B5
+comp: seeding 3F51B5
+comp: services 3F51B5
+comp: testing 3F51B5
+comp: validation 3F51B5
+effort1: easy (hour) 9C27B0
+effort2: medium (day) 9C27B0
+effort3: hard (week) 9C27B0
+freq1: low FFEB3B
+freq2: medium FFC107
+freq4: high FF9800
+freq5: critical f44336
+needs: repro 795548
+needs: documentation 795548
+needs: tests 795548
+needs: refactor 795548
+P0: critical b71c1c
+P1: urgent BF360C
+P2: required E65100
+P3: important FF6F00
+P4: nice to have 263238
+pr_action: cleanup 00ACC1
+pr_action: discuss 00ACC1
+pr_action: merge 43A047
+pr_action: review 311B92
+pr_state: blocked e53935
+pr_state: LGTM 7CB342
+pr_state: WIP 546E7A
+severity1: confusing A1887F
+severity2: inconvenient FFB74D
+severity3: memleak FFD54F
+severity4: broken e57373
+severity5: regression F06292
+severity6: security BA68C8
+state: Blocked d50000
+state: Follow Up C51162
+state: Needs Design AA00FF
+state: no repro FF6D00
+state: PR AEEA00
+type: bug c62828
+type: chore 424242
+type: feature 00695C
+type: performance 0277BD
+type: refactor 4527A0
+type: RFC / discussion / question AD1457
